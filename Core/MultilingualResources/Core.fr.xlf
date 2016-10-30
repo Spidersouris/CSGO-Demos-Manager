@@ -200,7 +200,7 @@
         </trans-unit>
         <trans-unit id="StatusToWatch" translate="yes" xml:space="preserve">
           <source>To watch</source>
-          <target state="final">A regarder</target>
+          <target state="final">À regarder</target>
         </trans-unit>
         <trans-unit id="StatusWatched" translate="yes" xml:space="preserve">
           <source>Watched</source>
